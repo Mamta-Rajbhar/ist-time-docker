@@ -10,8 +10,8 @@ This is a simple Python application that prints the **current date, time, and da
 
 # How to run this 
 1) Make sure 
--Docker installed
--Git installed
+**Docker installed
+**Git installed
 
 2) In CMD print this one by one
 
