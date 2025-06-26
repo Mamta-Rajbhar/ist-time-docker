@@ -25,6 +25,7 @@ This is a simple Python application that prints the **current date, time, and da
 3.  docker build -t ist-time-printer .
 
 ---Run the Container
+
 4.  docker run ist-time-printer
 
 
