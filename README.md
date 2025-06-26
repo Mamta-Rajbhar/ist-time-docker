@@ -25,10 +25,12 @@ This is a simple Python application that prints the **current date, time, and da
 3.  docker build -t ist-time-printer .
 
 ---Run the Container
+4.  docker run ist-time-printer
 
-## If you have downloaded Docker Desktop on your device  then can directly run this command to get output
+
+## If you have downloaded Docker Desktop on your device,  then you can directly run this command to get the output
 
 - docker run mamta434/current-date-time-day
 
-4.  docker run ist-time-printer
+
 
