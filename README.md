@@ -17,14 +17,14 @@ This is a simple Python application that prints the **current date, time, and da
 
 ---Clone the Repository   
 
--git clone https://github.com/Mamta-Rajbhar/ist-time-docker.git
--cd ist-time-docker
+1.  git clone https://github.com/Mamta-Rajbhar/ist-time-docker.git
+2.  cd ist-time-docker
 
 ---Build the Docker Image
 
-docker build -t ist-time-printer .
+3.  docker build -t ist-time-printer .
 
 ---Run the Container
 
-docker run ist-time-printer
+4.  docker run ist-time-printer
 
